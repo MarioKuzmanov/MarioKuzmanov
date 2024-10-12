@@ -1,3 +1,5 @@
+<em>while not success: sucess = try_again(effort+1)</emp>
+
 ***
 <h1 align="center"><i>Languages</i></h1>
 
