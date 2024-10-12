@@ -21,7 +21,7 @@
 
 <h2>Student Assistant</h2>
 
-<h3> <img src="icons/uni_tubingen.png" alt="University of Tubingen" style="width:100px;height:100px;"/>  DSA1, DSA2 and <a href="https://dsacl3-2024.github.io/">DSA3</a> for CL students </h3>
+<h3> <img src="icons/uni_tubingen.png" alt="University of Tubingen" style="width:100px;height:100px;"/> DSA1, DSA2 and <a href="https://dsacl3-2024.github.io/">DSA3</a> for <mark>C</mark>(omputational)<mark>L</mark>(inguistics) students </h3>
 
 
 <h2>HiWi</h2>
