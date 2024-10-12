@@ -20,10 +20,14 @@
 
 
 <h2>Student Assistant</h2>
-* first
 
-* second
+<h3> <img src="icons/daedalus.png" alt="Daedalus Lab" style="width:100px;height:100px;"/>  DSA1, DSA2 and DSA3 </h3>
 
-* third
+* at **University of Tubingen** 
+
+
+<h2>HiWi</h2>
+
+<h3>Hector Research Institute of Education Sciences and Psychology</h3>
 
 ***
