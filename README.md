@@ -41,6 +41,13 @@
 
 <h3>@HectorResearchInstitute of Education Sciences and Psychology</h3>
 
+***
+<h1> In progress...</h1>
 
-
+1.Internship 🔎
+--- 
+2.Morphological Analyzer for Bulgarian 🔥
+---
+3.Other projects soon to come 💪
+---
 ***
