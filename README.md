@@ -15,9 +15,9 @@
 
 <h2>Research Assistant</h2>
 
-<p> MY WORK AT  
-<a href="https://github.com/daedalusLAB/speech_analysis">Daedalus Lab</a>
-</p>
+
+<h3> <img src="icons/daedalus.png" alt="Daedalus Lab" style="width:100px;height:100px;"/> My work in the lab: <a href="https://github.com/daedalusLAB/speech_analysis">Daedalus Lab/Speech Analysis</a></h3>
+
 
 <h2>Student Assistant</h2>
 * first
