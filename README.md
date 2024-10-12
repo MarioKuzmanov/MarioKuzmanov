@@ -42,7 +42,7 @@
 <h3>@HectorResearchInstitute of Education Sciences and Psychology</h3>
 
 ***
-<h1> In progress...</h1>
+<h1 align="center"> In progress </h1>
 
 1.Internship 🔎
 --- 
