@@ -37,6 +37,10 @@
 
 <h2>HiWi</h2>
 
-<h3>Hector Research Institute of Education Sciences and Psychology</h3>
+<h3> <img src="icons/hector_inst.png" alt="Hector Institute" style="width:100px;height:100px;"/> Build and Annotation of a large corpus for Second Language Learners 
+
+<h3>@HectorResearchInstitute of Education Sciences and Psychology</h3>
+
+
 
 ***
