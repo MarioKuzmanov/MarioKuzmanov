@@ -21,11 +21,12 @@
 <img src="icons/git.png" alt="Git" style="width:90px;height:80px;"/>     
 <img src="icons/pytorch.png" alt="Pytorch" style="width:100px;height:80px;"/>
 </h2>
+
 ***
 
-<h1 align="center">Other Skills</h1>
+<h1> Other Skills </h1>
 
-demo 
+* <h3>Building Finite State Transducers (FSTs) using regular expressions with hfst-xfst/foma and lexc <img src="icons/hfst.png" alt="hfst-xfst" style="width:100px;height:70px;"/> <h3>
 
 ***
 
