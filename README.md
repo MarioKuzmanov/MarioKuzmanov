@@ -26,7 +26,7 @@
 
 <h1> Other Skills </h1>
 
-* <h3>Building Finite State Transducers (FSTs) using regular expressions with hfst-xfst/foma and lexc <img src="icons/hfst.png" alt="hfst-xfst" style="width:100px;height:70px;"/> <h3>
+* <h3>Building basic Finite State Transducers (FSTs) using regular expressions with hfst-xfst/foma and lexc <img src="icons/hfst.png" alt="hfst-xfst" style="width:100px;height:70px;"/> <h3>
 
 ***
 
