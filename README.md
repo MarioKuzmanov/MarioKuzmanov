@@ -21,6 +21,11 @@
 <img src="icons/git.png" alt="Git" style="width:90px;height:80px;"/>     
 <img src="icons/pytorch.png" alt="Pytorch" style="width:100px;height:80px;"/>
 </h2>
+***
+
+<h1 align="center">Other Skills</h1>
+
+demo 
 
 ***
 
