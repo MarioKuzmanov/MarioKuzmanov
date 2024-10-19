@@ -1,7 +1,11 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1200&pause=600&color=ffffff&background=0d1117&center=true&vCenter=true&multiline=false&width=1000&height=150&lines=Computational+Linguist;" alt="Typing SVG" /></a>
+
+
+
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
-  <strike>Boring</strike> Computational Linguist
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+  About me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=MarioKuzmanov&color=green&style=flat)
