@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Prompt&size=75&duration=1800&pause=800&color=5c5a54&background=ffffff&center=true&vCenter=true&multiline=false&width=1000&height=150&lines=Computational+Linguist;" alt="Typing SVG" /></a>
-
+<h1 align="center" style="font-size: 100px;">Computational Linguist @ Tübingen</h1>
 
 
 <h1 align="center">
