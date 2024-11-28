@@ -21,9 +21,11 @@
 <img src="icons/python.png" alt="Python" style="width:70px;height:70px;"/>
 <img src="icons/java.png" alt="Java" style="width:90px;height:80px;"/>
 <img src="icons/r.png" alt="R" style="width:90px;height:80px;"/>
-<img src="icons/git.png" alt="Git" style="width:90px;height:80px;"/>     
-<img src="icons/pytorch.png" alt="Pytorch" style="width:100px;height:80px;"/>
-</h2>
+<img src="icons/html.png" alt="HTML" style="width:90px;height:80px;"/>
+<img src="icons/css.png" alt="CSS" style="width:90px;height:80px;"/>
+<img src="icons/js.png" alt="JS" style="width:110px;height:80px;"/>
+<img src="icons/git.png" alt="Git" style="width:90px;height:80px;"/>   
+<img src="icons/pytorch.png" alt="Pytorch" width=100px height=80px />
 
 ***
 
