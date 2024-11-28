@@ -37,30 +37,36 @@
 
 <h1 align="center">Experience</h1>
 
+<h2>Student Assistant <mark>(current)</mark> </h2>
+
+<h3> <img src="icons/uni_tubingen.png" alt="University of Tubingen" style="width:100px;height:100px;"/> DSA1, DSA2 and <a href="https://dsacl3-2024.github.io/">DSA3</a> for CL (Computational Linguistics) students </h3>
+
+<h2>HiWi</h2>
+
+<h3> <img src="icons/hector_inst.png" alt="Hector Institute" style="width:100px;height:100px;"/> Build and Annotation of a large corpora for Second Language Acquisition (L2 learners) </h3>
+
+
+<p> <em>@HectorResearchInstitute of Education Sciences and Psychology</em> </p>
+
+
+
 <h2>Research Assistant</h2>
 
 
 <h3> <img src="icons/daedalus.png" alt="Daedalus Lab" style="width:100px;height:100px;"/> My work in the lab: <a href="https://github.com/daedalusLAB/speech_analysis">Daedalus Lab/Speech Analysis</a></h3>
 
 
-<h2>Student Assistant</h2>
-
-<h3> <img src="icons/uni_tubingen.png" alt="University of Tubingen" style="width:100px;height:100px;"/> DSA1, DSA2 and <a href="https://dsacl3-2024.github.io/">DSA3</a> for <mark>C</mark>(omputational)<mark>L</mark>(inguistics) students </h3>
 
 
-<h2>HiWi</h2>
 
-<h3> <img src="icons/hector_inst.png" alt="Hector Institute" style="width:100px;height:100px;"/> Build and Annotation of a large corpus for Second Language Learners 
-
-<h3>@HectorResearchInstitute of Education Sciences and Psychology</h3>
 
 ***
 <h1 align="center"> In progress </h1>
 
 1.Internship 🔎
 --- 
-2.Morphological Analyzer for Bulgarian 🔥
+2.Morphological analyzer for Bulgarian (partial) 🔥 
 ---
-3.Other projects soon to come 💪
+3.Finite-State Spell-Checker  💪
 ---
 ***
