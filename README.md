@@ -10,13 +10,18 @@
 ![](https://komarev.com/ghpvc/?username=MarioKuzmanov&color=green&style=flat)
 
 
-
-
 > <em>while not success: success = try_again(effort+1)</emp>
 
 ***
-<h1 align="center"><i>Languages and Tools</i></h1>
+<h1 align="center"><i>Languages and Tools</i><h1>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,r,html,css,js,git,pytorch,figma,github,githubactions,gradle,idea,latex,linux,md,maven,pycharm,regex,sklearn,vscode,windows,&theme=dark&perline=11" />
+  </a>
+</p>
+
+<!--- 
 <h2 align="center">
 <img src="icons/python.png" alt="Python" style="width:70px;height:70px;"/>
 <img src="icons/java.png" alt="Java" style="width:90px;height:80px;"/>
@@ -26,12 +31,15 @@
 <img src="icons/js.png" alt="JS" style="width:110px;height:80px;"/>
 <img src="icons/git.png" alt="Git" style="width:90px;height:80px;"/>   
 <img src="icons/pytorch.png" alt="Pytorch" width=100px height=80px />
+--->
 
 ***
 
-<h1> Other Skills </h1>
+<h1 align="center"> Other Skills </h1>
 
-* <h3>Building basic Finite State Transducers (FSTs) using regular expressions with hfst-xfst/foma and lexc <img src="icons/hfst.png" alt="hfst-xfst" style="width:100px;height:70px;"/> <h3>
+* <b>Building basic Finite State Transducers (FSTs) using regular expressions with hfst-xfst/foma and lexc</b> <br> <img src="icons/hfst.png" alt="hfst-xfst" style="width:100px;height:70px;"/> 
+
+* <b> Problem-solving </b> <br> ![LeetCode Stats](https://leetcard.jacoblin.cool/MarioKuzmanov1?theme=dark&font=Frank%20Ruhl%20Libre)
 
 ***
 
@@ -49,16 +57,10 @@
 <p> <em>@HectorResearchInstitute of Education Sciences and Psychology</em> </p>
 
 
-
 <h2>Research Assistant</h2>
 
 
 <h3> <img src="icons/daedalus.png" alt="Daedalus Lab" style="width:100px;height:100px;"/> My work in the lab: <a href="https://github.com/daedalusLAB/speech_analysis">Daedalus Lab/Speech Analysis</a></h3>
-
-
-
-
-
 
 ***
 <h1 align="center"> Upcoming </h1>
