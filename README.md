@@ -65,12 +65,12 @@
 ***
 <h1 align="center"> Upcoming </h1>
 
-1.Internship 🔎
+1.Internship 🔎 <mark>(in progress)</mark>
 --- 
 2.Morphological analyzer for Bulgarian (partial) 🔥 
 ---
-3.Finite-State Spell-Checker  💪
+3.Finite-State Spell-Checker  💪 <mark>(in progress)</mark>
 ---
-4.Personal Webpage  🤖
+4.Personal Webpage  🤖 <mark>(in progress)</mark>
 ---
 ***
