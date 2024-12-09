@@ -3,11 +3,11 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  about me
+  <a href="https://mariokuzmanov.github.io/">my webpage</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h2>
 
-![](https://komarev.com/ghpvc/?username=MarioKuzmanov&color=green&style=flat)
+<!--- ![](https://komarev.com/ghpvc/?username=MarioKuzmanov&color=green&style=flat) --->
 
 
 > <em>while not success: success = try_again(effort+1)</emp>
