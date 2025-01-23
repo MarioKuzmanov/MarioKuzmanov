@@ -67,10 +67,8 @@
 
 1.Internship 🔎 <mark>(in progress)</mark>
 --- 
-2.Morphological analyzer for Bulgarian (partial) 🔥 
+2.Spell-Checker built on FSTs 💪 <mark>(in progress)</mark>
 ---
-3.Finite-State Spell-Checker  💪 <mark>(in progress)</mark>
----
-4.Personal Webpage  🤖 <mark>(in progress)</mark>
+3.Analyzer for a subset of Bulgarian morphology 🔥 <mark>(soon)</mark>
 ---
 ***
