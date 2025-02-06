@@ -66,9 +66,7 @@
 <h1 align="center"> Upcoming </h1>
 
 1.Internship 🔎 <mark>(in progress)</mark>
---- 
-2.Spell-Checker built on FSTs 💪 <mark>(soon published)</mark>
 ---
-3.Analyzer for a subset of Bulgarian morphology 🔥 <mark>(soon start)</mark>
+2.Analyzer for a subset of Bulgarian morphology 🔥 <mark>(soon start)</mark>
 ---
 ***
