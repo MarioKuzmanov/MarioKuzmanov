@@ -45,6 +45,14 @@
 
 <h1 align="center">Experience</h1>
 
+<h2>HiWi <mark>(current)</mark> </h2>
+
+<h3> <img src="icons/hector_inst.png" alt="Hector Institute" style="width:100px;height:100px;"/> Effects of labeling a child as gifted based on its' academic and socio-emotional outcomes </h3>
+
+
+<p> <em>@HectorResearchInstitute of Education Sciences and Psychology</em> </p>
+
+
 <h2>Student Assistant <mark>(current)</mark> </h2>
 
 <h3> <img src="icons/uni_tubingen.png" alt="University of Tubingen" style="width:100px;height:100px;"/> DSA1, DSA2 and <a href="https://dsacl3-2024.github.io/">DSA3</a> for CL (Computational Linguistics) students </h3>
