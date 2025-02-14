@@ -55,13 +55,14 @@
 
 <h2>Student Assistant <mark>(current)</mark> </h2>
 
-<h3> <img src="icons/uni_tubingen.png" alt="University of Tubingen" style="width:100px;height:100px;"/> DSA1, DSA2 and <a href="https://dsacl3-2024.github.io/">DSA3</a> for CL (Computational Linguistics) students </h3>
+<h3> <img src="icons/uni_tubingen.png" alt="University of Tubingen" style="width:100px;height:100px;"/> DSA1, DSA2 and <a href="https://dsacl3-2024.github.io/">DSA3</a> for CL (Computational Linguistics) students 
+<br> <br>  
+Course Setup for:  <a href="https://snlp1-2024.github.io/">Statistical NLP1</a>
+</h3>
 
 <h2>HiWi</h2>
 
 <h3> <img src="icons/hector_inst.png" alt="Hector Institute" style="width:100px;height:100px;"/> Build and Annotation of a large corpora for Second Language Acquisition (L2 learners) </h3>
-
-
 <p> <em>@HectorResearchInstitute of Education Sciences and Psychology</em> </p>
 
 
