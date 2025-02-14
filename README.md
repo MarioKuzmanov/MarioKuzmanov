@@ -75,7 +75,7 @@
 
 1.Internship 🔎 <mark>(in progress)</mark>
 ---
-2.Transition-based Parser 🔥 <mark>(in progress)</mark>
+2.Transition-based Parser 😎 <mark>(in progress)</mark>
 ---
 3.Analyzer for a subset of Bulgarian morphology 🔥 <mark>(soon start)</mark>
 ---
