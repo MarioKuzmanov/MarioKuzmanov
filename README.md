@@ -45,6 +45,11 @@
 
 <h1 align="center">Experience</h1>
 
+<h2>Intern @Ontotext (now Graphwise) <mark>(current)</mark> </h2>
+
+<h3> <img src="icons/graphwise.png" alt="graphwise.ai" style="width:100px;height:100px;"/> Innovation & Research </h3>
+<p> Global Leader in enterprise semantic AI technologies based on knowledge graphs <a href="https://graphwise.ai/">graphwise.ai</a></p>
+
 <h2>HiWi <mark>(current)</mark> </h2>
 
 <h3> <img src="icons/hector_inst.png" alt="Hector Institute" style="width:100px;height:100px;"/> Effects of labeling a child as gifted based on its' academic and socio-emotional outcomes </h3>
