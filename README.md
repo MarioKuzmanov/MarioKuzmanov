@@ -79,10 +79,8 @@ Course Setup for:  <a href="https://snlp1-2024.github.io/">Statistical NLP1</a>
 ***
 <h1 align="center"> Upcoming </h1>
 
-1.Internship 🔎 <mark>(in progress)</mark>
+1.Transition-based Parser 😎 <mark>(in progress)</mark>
 ---
-2.Transition-based Parser 😎 <mark>(in progress)</mark>
----
-3.Analyzer for a subset of Bulgarian morphology 🔥 <mark>(soon start)</mark>
+2.Analyzer for a subset of Bulgarian morphology 🔥 <mark>(soon start)</mark>
 ---
 ***
