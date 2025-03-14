@@ -47,7 +47,7 @@
 
 <h2>Intern @Ontotext (now Graphwise) <mark>(current)</mark> </h2>
 
-<h3> <img src="icons/graphwise.png" alt="graphwise.ai" style="width:100px;height:100px;"/> Innovation & Research </h3>
+<h3> <img src="icons/graphwise.png" alt="graphwise.ai" style="width:100px;height:100px;"/> Research </h3>
 <p> Global Leader in enterprise semantic AI technologies based on knowledge graphs <a href="https://graphwise.ai/">graphwise.ai</a></p>
 
 <h2>HiWi <mark>(current)</mark> </h2>
