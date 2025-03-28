@@ -63,6 +63,7 @@
 <h3> <img src="icons/uni_tubingen.png" alt="University of Tubingen" style="width:100px;height:100px;"/> DSA1, DSA2 and <a href="https://dsacl3-2024.github.io/">DSA3</a> for CL (Computational Linguistics) students 
 <br> <br>  
 Course Setup for:  <a href="https://snlp1-2024.github.io/">Statistical NLP1</a>
+Course Setup/Tutorials for:  <a href="https://snlp2-2025.github.io/">Statistical NLP2</a>
 </h3>
 
 <h2>HiWi</h2>
