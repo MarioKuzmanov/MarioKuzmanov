@@ -82,6 +82,6 @@ Course Setup/Tutorials for:  <a href="https://snlp2-2025.github.io/">Statistical
 
 1.Transition-based Parser 😎 <mark>(in progress)</mark>
 ---
-2.Analyzer for a subset of Bulgarian morphology 🔥 <mark>(soon start)</mark>
+2.Analyzer for a subset of Bulgarian morphology 🔥 <mark>(in progress)</mark>
 ---
 ***
