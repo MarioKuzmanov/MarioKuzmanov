@@ -45,7 +45,7 @@
 
 <h1 align="center">Experience</h1>
 
-<h2>Intern @Ontotext (now Graphwise) <mark>(current)</mark> </h2>
+<h2>Intern @ Graphwise <mark>(current)</mark> </h2>
 
 <h3> <img src="icons/graphwise.png" alt="graphwise.ai" style="width:100px;height:100px;"/> Research & Innovation </h3>
 <p> Global Leader in enterprise semantic AI technologies based on knowledge graphs <a href="https://graphwise.ai/">graphwise.ai</a></p>
@@ -62,7 +62,7 @@
 
 <h3> <img src="icons/uni_tubingen.png" alt="University of Tubingen" style="width:100px;height:100px;"/> DSA1, DSA2 and <a href="https://dsacl3-2024.github.io/">DSA3</a> for CL (Computational Linguistics) students 
 <br> <br>  
-Course Setup for:  <a href="https://snlp1-2024.github.io/">Statistical NLP1</a> <br>
+Course Setup/Tutorials for:  <a href="https://snlp1-2024.github.io/">Statistical NLP1</a> <br>
 Course Setup/Tutorials for:  <a href="https://snlp2-2025.github.io/">Statistical NLP2</a>
 </h3>
 
