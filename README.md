@@ -45,7 +45,7 @@
 
 <h1 align="center">Experience</h1>
 
-<h2>Intern @ Graphwise <mark>(current)</mark> </h2>
+<h2> Intern @ Graphwise </h2>
 
 <h3> <img src="icons/graphwise.png" alt="graphwise.ai" style="width:100px;height:100px;"/> Research & Innovation </h3>
 <p> Global Leader in enterprise semantic AI technologies based on knowledge graphs <a href="https://graphwise.ai/">graphwise.ai</a></p>
