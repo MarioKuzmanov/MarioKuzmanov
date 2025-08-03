@@ -39,7 +39,7 @@
 
 * <b>Building basic Finite State Transducers (FSTs) using regular expressions with hfst-xfst/foma and lexc</b> <br> <img src="icons/hfst.png" alt="hfst-xfst" style="width:100px;height:70px;"/> 
 
-* <b> Problem-solving </b> <br> ![LeetCode Stats](https://leetcard.jacoblin.cool/MarioKuzmanov1?theme=dark&font=Frank%20Ruhl%20Libre)
+* <b> Problem-solving </b> <br> ![LeetCode Stats](https://leetcard.jacoblin.cool/MarioKuzmanov1?theme=nord&font=source_code_pro&ext=heatmap)
 
 ***
 
