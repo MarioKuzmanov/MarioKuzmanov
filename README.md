@@ -124,8 +124,8 @@ Extraction in Gut-Brain Axis PubMed Abstracts <a href=https://acl-bg.org/proceed
 ---
 4.Updated CV 📝 
 ---
-Transition-based Parser 😎 <mark>(low priority)</mark>
+Transition-based Parser (based on Jurafsky and Martin) 😎 <mark>(low priority)</mark>
 ---
-Morphological Analyzer for Bulgarian (based on Jurafsky and Martin) 🔥 <mark>(low priority)</mark>
+Morphological Analyzer for Bulgarian 🔥 <mark>(low priority)</mark>
 ---
 ***
