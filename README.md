@@ -96,7 +96,14 @@ Extraction in Gut-Brain Axis PubMed Abstracts <a href=https://acl-bg.org/proceed
 <div style="display: flex; justify-content: center; gap: 100px;">
   <p align="left"> RANLP 2025 Summer School Task A Winner 🥇,  </p>
   <img src="icons/ranlp2025-summer_school.png" alt="First image" style="width:200px; height300px; border-radius: 8px;">
-  <img src="icons/ranlp2025-summer_school.png" alt="Second image" style="width:200px; height300px; border-radius: 8px;">
+  <img src="icons/graphwise-bioasq.jpeg" alt="Second image" style="width:300px; height400px; border-radius: 8px;">
+  <img src="icons/ontug.jpeg" alt="Second image" style="width:300px; height400px; border-radius: 8px;">
+  <iframe 
+    src="yourfile.pdf" 
+    width="100%" 
+    height="100%" 
+    style="border: none;">
+  </iframe>
 </div>
 
 ***
