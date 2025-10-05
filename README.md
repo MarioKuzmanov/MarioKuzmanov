@@ -83,18 +83,22 @@ Course Setup/Tutorials for:  <a href="https://snlp2-2025.github.io/">Statistical
 ***
 <h1 align="center"> Publications & Awards </h1>
 
-<p align="center"> <i> Graphwise @ CLEF-2025 GutBrainIE: Towards Automated
+<p align="left"> <i> Graphwise @ CLEF-2025 GutBrainIE: Towards Automated
 Discovery of Gut-Brain Interactions - Deep Learning for
 NER and Relation Extraction from PubMed Abstracts <a href=https://ceur-ws.org/Vol-4038/paper_14.pdf> (link) </a> </i>
 </p>
 
-<p align="center"> <i> End-to-End Deep Learning for Named Entity Recognition and Relation
-Extraction in Gut-Brain Axis PubMed Abstracts <a href=https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.31.pdf> (link) </a> </i>
+<p align="left"> <i> End-to-End Deep Learning for Named Entity Recognition and Relation
+Extraction in Gut-Brain Axis PubMed Abstracts <a href=https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.31.pdf> (link) </a> </i> 
 </p>
 
 
-<p align="left"> RANLP 2025 Summer School Task A Winner <img src="icons/hector_inst.png" alt="Hector Institute" style="width:100px;height:100px;"/> </p>
- 
+<div style="display: flex; justify-content: center; gap: 100px;">
+  <p align="left"> RANLP 2025 Summer School Task A Winner 🥇,  </p>
+  <img src="icons/ranlp2025-summer_school.png" alt="First image" style="width:200px; height300px; border-radius: 8px;">
+  <img src="icons/ranlp2025-summer_school.png" alt="Second image" style="width:200px; height300px; border-radius: 8px;">
+</div>
+
 ***
 <h1 align="center"> Upcoming </h1>
 
