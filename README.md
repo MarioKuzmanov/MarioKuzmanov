@@ -45,7 +45,7 @@
 
 <h1 align="center">Experience</h1>
 
-<h2> Intern @ Graphwise </h2>
+<h2> Intern --> Junior Researcher <mark>(current)</mark> @ Graphwise </h2>
 
 <h3> <img src="icons/graphwise.png" alt="graphwise.ai" style="width:100px;height:100px;"/> Research & Innovation </h3>
 <p> Global Leader in enterprise semantic AI technologies based on knowledge graphs <a href="https://graphwise.ai/">graphwise.ai</a></p>
@@ -58,7 +58,7 @@
 <p> <em>@HectorResearchInstitute of Education Sciences and Psychology</em> </p>
 
 
-<h2>Student Assistant <mark>(current)</mark> </h2>
+<h2> Student Assistant </h2>
 
 <h3> <img src="icons/uni_tubingen.png" alt="University of Tubingen" style="width:100px;height:100px;"/> DSA1, DSA2 and <a href="https://dsacl3-2024.github.io/">DSA3</a> for CL (Computational Linguistics) students 
 <br> <br>  
@@ -80,8 +80,18 @@ Course Setup/Tutorials for:  <a href="https://snlp2-2025.github.io/">Statistical
 ***
 <h1 align="center"> Upcoming </h1>
 
-1.Transition-based Parser 😎 <mark>(in progress)</mark>
+1.Thesis 🎓 - coming on GitHub
 ---
-2.Analyzer for a subset of Bulgarian morphology 🔥 <mark>(in progress)</mark>
+2.GutBrainIE 🧠 - coming on GitHub
+---
+3.Offensive-Language-Detection 🤬🗯️🚫 (competition) - soon on GitHub  
+---
+4.ASReview LLM screening 🧐📋 - soon on GitHub  
+---
+5.Updated CV 📝 
+---
+Transition-based Parser 😎 <mark>(low priority)</mark>
+---
+Analyzer for a subset of Bulgarian morphology 🔥 <mark>(low priority)</mark>
 ---
 ***
