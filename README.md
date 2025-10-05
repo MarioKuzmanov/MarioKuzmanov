@@ -1,5 +1,4 @@
-<h1 align="center"> Computational Linguist @ Tübingen </h1>
-
+<h1 align="center"> Computational Linguist & Researcher</h1>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
@@ -41,6 +40,10 @@
 
 * <b> Problem-solving </b> <br> ![LeetCode Stats](https://leetcard.jacoblin.cool/MarioKuzmanov1?theme=nord&font=source_code_pro&ext=heatmap)
 
+* <b> Literature </b> <br>
+ 1. [Speech & Language Processing Book](https://web.stanford.edu/~jurafsky/slp3/) by Jurafsky and Martin
+ 2. [Deep Learning Book](https://www.deeplearningbook.org/) by Goodfellow, Bengio and Courville
+
 ***
 
 <h1 align="center">Experience</h1>
@@ -78,20 +81,34 @@ Course Setup/Tutorials for:  <a href="https://snlp2-2025.github.io/">Statistical
 <h3> <img src="icons/daedalus.png" alt="Daedalus Lab" style="width:100px;height:100px;"/> My work in the lab: <a href="https://github.com/daedalusLAB/speech_analysis">Daedalus Lab/Speech Analysis</a></h3>
 
 ***
+<h1 align="center"> Publications & Awards </h1>
+
+<p align="center"> <i> Graphwise @ CLEF-2025 GutBrainIE: Towards Automated
+Discovery of Gut-Brain Interactions - Deep Learning for
+NER and Relation Extraction from PubMed Abstracts <a href=https://ceur-ws.org/Vol-4038/paper_14.pdf> (link) </a> </i>
+</p>
+
+<p align="center"> <i> End-to-End Deep Learning for Named Entity Recognition and Relation
+Extraction in Gut-Brain Axis PubMed Abstracts <a href=https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.31.pdf> (link) </a> </i>
+</p>
+
+
+<p align="left"> RANLP 2025 Summer School Task A Winner <img src="icons/hector_inst.png" alt="Hector Institute" style="width:100px;height:100px;"/> </p>
+ 
+***
 <h1 align="center"> Upcoming </h1>
 
-1.Thesis 🎓 - coming on GitHub
+
+1.GutBrainIE 🧠 - coming on GitHub
 ---
-2.GutBrainIE 🧠 - coming on GitHub
+2.Offensive-Language-Detection 🤬🗯️🚫 (competition) - soon on GitHub  
 ---
-3.Offensive-Language-Detection 🤬🗯️🚫 (competition) - soon on GitHub  
+3.ASReview LLM screening 🧐📋 - soon on GitHub  
 ---
-4.ASReview LLM screening 🧐📋 - soon on GitHub  
----
-5.Updated CV 📝 
+4.Updated CV 📝 
 ---
 Transition-based Parser 😎 <mark>(low priority)</mark>
 ---
-Analyzer for a subset of Bulgarian morphology 🔥 <mark>(low priority)</mark>
+Morphological Analyzer for Bulgarian (based on Jurafsky and Martin) 🔥 <mark>(low priority)</mark>
 ---
 ***
