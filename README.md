@@ -92,19 +92,18 @@ NER and Relation Extraction from PubMed Abstracts <a href=https://ceur-ws.org/Vo
 Extraction in Gut-Brain Axis PubMed Abstracts <a href=https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.31.pdf> (link) </a> </i> 
 </p>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: flex-start;">
+  <p style="flex-basis: 100%; font-weight: bold; font-size: 1.2em; text-align: left;">
+    <b>RANLP 2025 Summer School Task A Winner 🥇, CLEF BioASQ 2025 Challenge Awards 🥈</b>
+  </p>
 
-<div style="display: flex; justify-content: center; gap: 100px;">
-  <p align="left"> RANLP 2025 Summer School Task A Winner 🥇,  </p>
-  <img src="icons/ranlp2025-summer_school.png" alt="First image" style="width:200px; height300px; border-radius: 8px;">
-  <img src="icons/graphwise-bioasq.jpeg" alt="Second image" style="width:300px; height400px; border-radius: 8px;">
-  <img src="icons/ontug.jpeg" alt="Second image" style="width:300px; height400px; border-radius: 8px;">
-  <iframe 
-    src="yourfile.pdf" 
-    width="100%" 
-    height="100%" 
-    style="border: none;">
-  </iframe>
+  <img src="icons/ranlp2025-summer_school.png" alt="RANLP Summer School 2025" style="width:200px; border-radius: 8px;">
+  <img src="icons/graphwise-bioasq.jpeg" alt="HEREDITARY - CLEF BioASQ 2025 (1)" style="width:300px; border-radius: 8px;">
+  <img src="icons/ontug.jpeg" alt="HEREDITARY - CLEF BioASQ 2025 (2)" style="width:300px; border-radius: 8px;">
 </div>
+
+<embed src="icons/ranlp-certificate.pdf" width="200px" height="100px" />
+
 
 ***
 <h1 align="center"> Upcoming </h1>
